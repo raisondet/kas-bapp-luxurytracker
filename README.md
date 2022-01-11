@@ -2,12 +2,14 @@
 
 KAS 사용 관련하여 스터디를 하기 위해 fork한 repo입니다.
 
-### 기존 repo 수정사항
+## 기존 repo 수정사항
 1. contract 선택시 klaytnscope로 이동하지 않는 문제
 2. Product 이미지 width를 고정하여 화면을 넘치는 문제
 3. DB 이름 
 
-![](./screen1.png)
+  <img src="https://user-images.githubusercontent.com/304667/148885631-7fe0c333-e863-4d67-9e80-0aaed5b80529.png" width="600" />
+
+
 
 ## 개요
 
