@@ -16,3 +16,7 @@ code {
 a:visited {
   color: "red";
 }
+
+.product-image {
+  width: 300px;
+}

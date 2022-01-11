@@ -92,7 +92,11 @@ class CustomerReceiptDetail extends React.Component {
           </AppBar>
           <List>
             <ListItem>
-              <img src={this.props.productImage}  alt="product_image"/>
+              <img
+                src={this.props.productImage}
+                className="product-image"
+                alt="product_image"
+              />
             </ListItem>
             <Divider />
             <ListItem button>

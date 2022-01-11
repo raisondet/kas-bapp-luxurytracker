@@ -65,8 +65,7 @@ class ProductDetail extends React.Component {
 
   handleClickContractAddr = () => {
     var win = window.open(
-      "https://baobab.scope.klaytn.com/account/" +
-        this.props.receipt.contractAddr,
+      "https://baobab.scope.klaytn.com/account/" + this.props.contractAddr,
       "_blank"
     );
     win.focus();

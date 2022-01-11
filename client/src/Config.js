@@ -1,5 +1,5 @@
-const accessKeyId = "YOUR_ACCESS_KEY_ID_FROM_KAS_CONSOLE";
-const secretAccessKey = "YOUR_SECRET_ACCESS_KEY_FROM_KAS_CONSOLE";
+const accessKeyId = "";
+const secretAccessKey = "";
 const authorization = "Basic " + Buffer.from(accessKeyId + ":" + secretAccessKey).toString("base64")
 
 const option = {

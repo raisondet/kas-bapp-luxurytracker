@@ -21,7 +21,11 @@ class Product extends React.Component {
     return (
       <TableRow>
         <TableCell>
-          <img src={this.props.image} alt="product_image"/>
+          <img
+            src={this.props.image}
+            className="product-image"
+            alt="product_image"
+          />
         </TableCell>
         <TableCell>
           <ProductDetail
